@@ -1,6 +1,4 @@
 <?php
-
-//Hi This is for testing
 /*
  * Copyright 2013. Amazon Web Services, Inc. All Rights Reserved.
  *
